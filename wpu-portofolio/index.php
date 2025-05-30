@@ -76,6 +76,20 @@
             <h2>Social Media</h2>
           </div>
         </div>
+
+        <div class="row justify-content-center">
+          <div class="col-md-5">
+            <div class="row">
+              <div class="col-md-4">
+                <img src="img/foto-Rina.jpg" width="130" class="img-thumbnail">
+              </div>
+            <div class="col-md-8">
+               <h5>rinahasibuan</h5>
+            </div>
+          </div>
+          </div>
+          <div class="col-md-5"></div>
+        </div>
       </div>
     </section>
 
