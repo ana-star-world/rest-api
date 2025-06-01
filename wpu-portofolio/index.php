@@ -161,7 +161,7 @@ $latestVideoId = $result['items'][0]['id']['videoId'];
     </section>
 
 
-    <!-- Portfolio -->
+    <!-- Project -->
     <section class="Project" id="Project">
       <div class="container">
         <div class="row pt-4 mb-4">
@@ -185,8 +185,8 @@ $latestVideoId = $result['items'][0]['id']['videoId'];
               <div class="card">
                 <img class="card-img-top" src="img/thumbs/2.png" alt="Card image cap">
                 <div class="card-body">
-                  <h5 class="card-title">wpu-hut</h5>
-                  <p class="card-text">Latihan API menggunakan file JSON berbasis web</p>
+                  <h5 class="card-title">wpu-movie</h5>
+                  <p class="card-text">Latihan API menggunakan Public API OMDb API berbasis website</p>
                 </div>
               </div>
             </div>
@@ -195,8 +195,8 @@ $latestVideoId = $result['items'][0]['id']['videoId'];
               <div class="card">
                 <img class="card-img-top" src="img/thumbs/3.png" alt="Card image cap">
                 <div class="card-body">
-                  <h5 class="card-title">wpu-hut</h5>
-                  <p class="card-text">Latihan API menggunakan file JSON berbasis web</p>
+                  <h5 class="card-title">wpu-portofolio</h5>
+                  <p class="card-text">Latihan API menggunakan Public API Youtube menggunkan cURL berbasis website.</p>
                 </div>
               </div>
             </div>
@@ -205,8 +205,8 @@ $latestVideoId = $result['items'][0]['id']['videoId'];
               <div class="card">
                 <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
                 <div class="card-body">
-                  <h5 class="card-title">wpu-hut</h5>
-                  <p class="card-text">Latihan API menggunakan file JSON berbasis web</p>
+                  <h5 class="card-title">wpu-rest-server</h5>
+                  <p class="card-text">Membuat Rest Server menggunkan framework codeIgniter3.</p>
                 </div>
               </div>
             </div>
