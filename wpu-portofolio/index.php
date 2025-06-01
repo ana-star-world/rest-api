@@ -90,7 +90,7 @@ $latestVideoId = $result['items'][0]['id']['videoId'];
             <p>Nama : Rina Sopiana Hasibuan</p>
             <p>Ttl : Sibuhuan, Padang lawas, 11-Desember-2003</p>
             <p>Hobby : Memasak & Main game</p>
-            <p>Warna favorit : hijau dan Biru</p>
+            <p>Warna favorit : Hijau dan Biru</p>
           </div>
           <div class="col-md-5">
             <p>Saya Sekolah Dasar di SD 0128 Banjar Raja Sibuhuan, dan sekolah Menengah pertama dan ke atas saya di Pondok Pesantren Syekh Mhd. Dahlan Aek Hayuara Sibuhuan
@@ -162,71 +162,56 @@ $latestVideoId = $result['items'][0]['id']['videoId'];
 
 
     <!-- Portfolio -->
-    <section class="portfolio" id="portfolio">
+    <section class="Project" id="Project">
       <div class="container">
         <div class="row pt-4 mb-4">
           <div class="col text-center">
-            <h2>Portfolio</h2>
+            <h2>Project</h2>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="img/thumbs/1.png" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <div class="container mt-3">
+          <div class="row">
+            <div class="col-md-3 mb-4">
+              <div class="card">
+                <img class="card-img-top" src="img/thumbs/1.png" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">wpu-hut</h5>
+                  <p class="card-text">Latihan API menggunakan file JSON berbasis web</p>
+                </div>
               </div>
             </div>
-          </div>
 
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="img/thumbs/2.png" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="col-md-3 mb-4">
+              <div class="card">
+                <img class="card-img-top" src="img/thumbs/2.png" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">wpu-hut</h5>
+                  <p class="card-text">Latihan API menggunakan file JSON berbasis web</p>
+                </div>
               </div>
             </div>
-          </div>
 
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="img/thumbs/3.png" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="col-md-3 mb-4">
+              <div class="card">
+                <img class="card-img-top" src="img/thumbs/3.png" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">wpu-hut</h5>
+                  <p class="card-text">Latihan API menggunakan file JSON berbasis web</p>
+                </div>
               </div>
             </div>
-          </div>   
-        </div>
 
-        <div class="row">
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div> 
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="img/thumbs/5.png" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="img/thumbs/6.png" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="col-md-3 mb-4">
+              <div class="card">
+                <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">wpu-hut</h5>
+                  <p class="card-text">Latihan API menggunakan file JSON berbasis web</p>
+                </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
     </section>
 
 
@@ -296,12 +281,6 @@ $latestVideoId = $result['items'][0]['id']['videoId'];
         </div>
       </div>
     </footer>
-
-
-
-
-
-
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
