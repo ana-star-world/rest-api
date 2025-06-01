@@ -28,3 +28,11 @@ footer {
 .ig-thumbnail img {
     width: 100px;
 }
+
+.card-img-top {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
+
